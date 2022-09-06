@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Olá, meu nome é Gilberto! 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbertocosme/)<br/><br/>
-![Gilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilustry&show_icons=true&theme=dracula)
+![Gilberto GitHub stats](https://github-readme-stats.vercel.app/api?username=gilbertocosme&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso:
 
